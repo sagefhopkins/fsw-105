@@ -15,3 +15,4 @@ var shopper = {
     }
 }
 
+console.log(shopper);
